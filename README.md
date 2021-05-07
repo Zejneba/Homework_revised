@@ -18,4 +18,5 @@ limitations under the License.
 
 ## Description
 
-Repository "homework" is changed since it was written with input function. In this repositiory, function with excpected arguments is tested with pytest.(May 2021) 
+Repository "homework" is changed since it used function with input arguments. In this repositiory, function with expected arguments is used, so it can be tested with pytest.
+(May 2021) 
